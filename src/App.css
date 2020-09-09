@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.ImagesInstagram {
+  min-width: 100px;
+}
